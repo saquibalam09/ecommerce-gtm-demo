@@ -3,6 +3,7 @@
 // Simple in-memory cart
 let cart = [];
 
+
 // DOM elements
 const cartItemsEl = document.getElementById("cart-items");
 const cartTotalEl = document.getElementById("cart-total");
